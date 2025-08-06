@@ -1,6 +1,6 @@
 # gokart
 
-![image](https://github.com/user-attachments/assets/28825649-af80-4aaa-a721-d62e14c98028)
+<img width="667" height="486" alt="image" src="https://github.com/user-attachments/assets/1d9dde96-c01f-4dbf-bbf8-4498605b360d" />
 
 this is an electric gokart i made from scratch. it is 1.2m long and 500mm wide. based on the ninebot gokart pro. it runs on 48v with a 1000w motor. cost is about 376 dollars. i built this because i like gokarting. the 3d model looks incomplete but that is because i could not find parts online.
 
