@@ -49,8 +49,8 @@ using a seat and bolting it to the frame
 [cad](https://a360.co/43lIhdm)
 
 ![image](https://github.com/user-attachments/assets/ab7aebe1-25c1-41ac-a766-6afc5724378b)
-![image](https://github.com/user-attachments/assets/2e172096-387b-4491-b798-bc400338af28)
-![image](https://github.com/user-attachments/assets/7ae0b8c9-1c10-4d2e-8531-664b1dd2a165)
+<img width="667" height="486" alt="image" src="https://github.com/user-attachments/assets/063b3697-ae2f-4170-bc3d-7b0abf64c8e6" />
+<img width="618" height="524" alt="image" src="https://github.com/user-attachments/assets/211abe8e-9df5-4d30-bc6c-79b09a58f96f" />
 
 ---
 
